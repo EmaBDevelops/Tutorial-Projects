@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+  <title>Brownies</title>
+  <meta charset = "UTF-8">
+</head>
+
+<body>
+<section>
+  <h1>Brownies</h1>
+  <p> Here is a step-by-step guide to making brownies</p>
+</section>
+
+<section>
+  <h2>Ingredients</h2>
+  <ul>
+      <li>Eggs</li>
+      <li>Flour</li>
+      <li>Milk</li>
+      <li>Chocolate</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Instructions</h2>
+    <ol>
+      <li>Beat eggs</li>
+      <li>Pour in milk</li>
+      <li>Pour in flour</li>
+      <li>Mix</li>
+      <li>Put in chocolate</li>
+      <li>Cook</li>
+      <li>Eat</li>
+    </ol>
+</section>
+
+<img src = "https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt = "An image">
+
+</body>
+
+<footer>
+
+</footer>
+</html>
