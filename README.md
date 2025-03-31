@@ -6,3 +6,5 @@ This is a collection of projects I got from tutotials
 
 # Free Code Camp
 1. Build a Recipe Page: https://www.freecodecamp.org/learn/full-stack-developer/lab-recipe-page/build-a-recipe-page
+
+# JavaScript30
